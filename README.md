@@ -1,5 +1,6 @@
 # PA2: openFrameworks Diner Dash
 This is a copy of the project I worked on with (yamilette-alemany) made to publish the repository
+
 To simulate app-> open diner_dash_simulator.app.zip
 
 
