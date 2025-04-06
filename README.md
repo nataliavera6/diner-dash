@@ -1,5 +1,8 @@
 # PA2: openFrameworks Diner Dash
 This is a copy of the project I worked on with (yamilette-alemany) made to publish the repository
+
+**🚨WARNING: YOU WILL NEED OPENFRAMEWORKS TO RUN THIS PROJECT 🚨**
+
 The objective for this first project is to complete the game called Diner Dash with the help of openFrameworks!
 
 # What it can do out of the box
